@@ -6,8 +6,6 @@ The specification of the " Final Exam (Logic Design) " for Academic Year 2022/20
 
 ## Team 👥
 
-Introduce the team members who contributed to this project.
-
 - [Francesco Rita](https://github.com/FraRita)
 - [Davide Salonico](https://github.com/DavideSalonico)
 
